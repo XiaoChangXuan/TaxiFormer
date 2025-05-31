@@ -1,5 +1,5 @@
-# TaxiFormer
-TaxiFormer: Efficient Long-Term Prediction of  Aircraft Taxiing Trajectories via a Lightweight Transformer
+# RTLongFormer
+RTLongFormer: Real-Time Long-term Airport Surface Trajectory Prediction
 
 Code will be uploaded later.
 
@@ -17,7 +17,7 @@ Code will be uploaded later.
 #### Experiments on Multi-Aircraft Trajectory Prediction
 | Airport                                   | Airport ICAO | mADE@20 | mADE@50 | mADE@110 | mFDE@20 | mFDE@50 | mFDE@110 | Weights  |
 |:-----------------------------------------:|:------------:|:-------:| :-----: | :------: | :-----: | :-----: | :------: | :------: |
-| Ted Stevens Anchorage Intl. Airport       |      PANC    |  14.75  |  28.60  |   66.67  |  21.40  |  49.70  |  154.80  |   [panc](https://drive.google.com/file/d/1rwFryxkhNN_EBMt6AoLZ8-S4-rrDdlrL/view?usp=drive_link) |
-| Louis Armstrong New Orleans Intl. Airport |      KMSY    |   8.81  |  12.37  |   24.60  |   9.73  |  16.86  |   58.23  |   [kmsy](https://drive.google.com/file/d/1P505x6kMZT5EEk1i0Akmb8kFOyKxmptk/view?usp=drive_link) |
-| Seattle-Tacoma Intl. Airport              |      KSEA    |  13.62  |  29.62  |   79.19  |  21.54  |  56.13  |  198.24  |   [ksea](https://drive.google.com/file/d/13De5SySyHGNFViXKaCB765DGcnrY25yP/view?usp=drive_link) |
+| Ted Stevens Anchorage Intl. Airport       |      PANC    |  18.46  |  32.43  |   70.88  |  24.95  |  53.21  |  157.72  |   [panc](https://drive.google.com/file/d/1rwFryxkhNN_EBMt6AoLZ8-S4-rrDdlrL/view?usp=drive_link) |
+| Louis Armstrong New Orleans Intl. Airport |      KMSY    |  11.85  |  15.33  |   27.79  |  13.11  |  19.35  |   60.66  |   [kmsy](https://drive.google.com/file/d/1P505x6kMZT5EEk1i0Akmb8kFOyKxmptk/view?usp=drive_link) |
+| Seattle-Tacoma Intl. Airport              |      KSEA    |  16.11  |  32.20  |   83.54  |  23.74  |  58.70  |  208.83  |   [ksea](https://drive.google.com/file/d/13De5SySyHGNFViXKaCB765DGcnrY25yP/view?usp=drive_link) |
 <hr>
