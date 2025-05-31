@@ -9,7 +9,7 @@ Code will be uploaded later.
 
 | Airport                                   | Airport ICAO | mADE@20 | mADE@50 | mADE@110 | mFDE@20 | mFDE@50 | mFDE@110 | Weights  |
 |:-----------------------------------------:|:------------:|:-------:| :-----: | :------: | :-----: | :-----: | :------: | :------: |
-| Ted Stevens Anchorage Intl. Airport       |      PANC    |   8.96  |  20.36  |   49.70  |  14.45  |  33.29  |  101.53  |   [panc](https://drive.google.com/file/d/1IMEioLUbeOqREvAJBEKQ4IhPX44IPE_5/view?usp=drive_link) |
+| Ted Stevens Anchorage Intl. Airport       |      PANC    |   8.61  |  19.87  |   49.31  |  13.89  |  32.56  |  101.35  |   [panc](https://drive.google.com/file/d/1IMEioLUbeOqREvAJBEKQ4IhPX44IPE_5/view?usp=drive_link) |
 | Louis Armstrong New Orleans Intl. Airport |      KMSY    |   2.81  |   5.52  |   13.83  |   4.09  |   8.49  |   32.21  |   [kmsy](https://drive.google.com/file/d/1C5uYm1AoS2g8CEAxnHGdyzQEKQvJyNi-/view?usp=drive_link) |
 | Seattle-Tacoma Intl. Airport              |      KSEA    |   7.87  |  17.90  |   46.26  |  12.58  |  29.45  |   98.68  |   [ksea](https://drive.google.com/file/d/1IMEioLUbeOqREvAJBEKQ4IhPX44IPE_5/view?usp=drive_link) |
 
